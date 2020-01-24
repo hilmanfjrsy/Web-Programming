@@ -1,0 +1,54 @@
+.container{
+position: fixed;
+flex-direction: column;
+flex:1;
+margin-left: -20px;
+}
+
+.nav-logo{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.nav-vertical{
+    background-color: #2c2c2c;
+    width: 200px;
+    height: 660px;
+}
+
+.nav-menu{
+    margin-top: 20px;
+}
+.text-nav{
+    font-size: 14px;
+    width:200px;
+    margin-top: 0px;
+    height:50px;
+
+}
+
+.nav-icon{
+    margin-right: 15px;
+    font-size: 20px;
+    margin-top: -5px;
+}
+
+.nav-link{
+    margin-left: 15px;
+    margin-top: 5px;
+    color: rgb(122, 122, 122);
+}
+.nav-link:hover{
+    color:whitesmoke;
+}
+
+.text-nav:hover{
+    background-color:#4b4646;
+}
+
+.nav-link-active{
+    margin-left: 25px;
+    border-right: 5px solid #2b85af;
+    color: whitesmoke;
+    transition: ease-out;
+}

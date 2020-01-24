@@ -1,0 +1,87 @@
+.contain-datamasuk{
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.judul-data-masuk{
+    font-size: 30px;
+    font-weight: 640;
+    margin-bottom: 20px;
+}
+
+.table-data-masuk{
+    margin-top: 50px;
+    margin-left: 230px;
+    position: absolute;
+    width: 1100px;
+}
+
+.tab-masuk td{
+    table-layout: fixed;
+    word-break: break-all;
+    
+}
+
+.tab-masuk th{
+    text-align: center;
+    font-size: 14px;
+}
+
+.tab-masuk tbody:hover{
+    background-color: rgb(247, 247, 247);
+}
+
+.tab-masuk tbody{
+    font-size: 13px;
+}
+
+.tab-no-masuk{
+    width: 35px;
+}
+
+.tab-tanggal-masuk{
+    width: 140px;
+}
+
+.tab-nama-masuk{
+    width: 200px;
+    
+}
+
+.tab-merk-masuk{
+    width: 200px;
+}
+
+.tab-jumlah-masuk{
+    width: 50px;
+}
+
+.tab-satuan-masuk{
+    width: 110px;
+}
+
+.tab-kategori-masuk{
+    width: 150px;
+    
+}
+
+.tab-ket-masuk{
+    width: 200px;
+}
+
+.tab-aksi-masuk{
+    width:100px;
+}
+
+.icon-edit-masuk{
+    color: #39a3b1;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.icon-delete-masuk{
+    margin-left: 10px;
+    color: #b13939;
+    font-size: 20px;
+    cursor: pointer;
+}

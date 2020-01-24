@@ -1,0 +1,185 @@
+.container{
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.icon-home{
+    margin-top: -6px;
+    margin-right: 8px;
+    color: rgb(39, 38, 38);
+}
+
+.text-logout{
+    margin-top: -10px;
+    margin-left: 970px;
+    color: rgb(39, 38, 38);
+}
+.add-item{
+    width: 250px;
+    height: 100px;
+    background-color: #71b139;
+    position: absolute;
+    border-radius: 10px;  
+    margin-top: 60px;
+    margin-left: 300px;  
+}
+.add-item:hover{
+    cursor: pointer;
+    background-color: #87be56;
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+
+.in-item{
+    margin-left: 650px;
+    width: 250px;
+    height: 100px;
+    background-color: #39a3b1;
+    position: absolute;
+    border-radius: 10px;  
+    margin-top: 60px; 
+}
+
+.in-item:hover{
+    cursor: pointer;
+    margin-left: 650px;
+    width: 250px;
+    height: 100px;
+    background-color: #56aebe;
+    position: absolute;
+    border-radius: 10px;  
+}
+.out-item{
+    margin-left: 1000px;
+    width: 250px;
+    height: 100px;
+    background-color: #b13939;
+    position: absolute;
+    border-radius: 10px;  
+    margin-top: 60px; 
+}
+
+.out-item:hover{
+    cursor: pointer;
+    margin-left: 1000px;
+    width: 250px;
+    height: 100px;
+    background-color: #be5656;
+    position: absolute;
+    border-radius: 10px;  
+}
+.icon-additem{
+    margin-left: 10px;
+    color: #4a8517;
+    font-size: 100px;
+}
+
+.icon-in{
+    margin-left: 10px;
+    color: #177e85;
+    font-size: 80px;
+    margin-top: 12px;
+}
+
+.icon-out{
+    margin-left: 15px;
+    color: #851717;
+    font-size: 80px;
+    margin-top: 13px;
+}
+
+.add-itemtext{
+    color: rgb(235, 235, 235);
+    font-weight: 530;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    position:absolute;
+    text-align: center;
+}
+
+.judul-item{
+    font-size: 30px;
+    font-weight: 640;
+    margin-bottom: 20px;
+}
+
+.table-item{
+    margin-top: 250px;
+    margin-left: 230px;
+    position: absolute;
+    width: 1100px;
+}
+
+.tab-item td{
+    table-layout: fixed;
+    word-break: break-all;
+    
+}
+
+.tab-item th{
+    text-align: center;
+    font-size: 14px;
+}
+
+.tab-item tbody:hover{
+    background-color: rgb(247, 247, 247);
+}
+
+.tab-item tbody{
+    font-size: 13px;
+}
+
+.tab-no{
+    width: 35px;
+}
+
+.tab-tanggal{
+    width: 140px;
+}
+
+.tab-nama{
+    width: 200px;
+    
+}
+
+.tab-merk{
+    width: 200px;
+}
+
+.tab-jumlah{
+    width: 50px;
+}
+
+.tab-satuan{
+    width: 110px;
+}
+
+.tab-kategori{
+    width: 150px;
+    
+}
+
+.tab-ket{
+    width: 200px;
+}
+
+.tab-aksi{
+    width:100px;
+}
+
+.icon-edit{
+    color: #39a3b1;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.icon-delete{
+    margin-left: 10px;
+    color: #b13939;
+    font-size: 20px;
+    cursor: pointer;
+}

@@ -1,0 +1,86 @@
+.table-data-keluar{
+    margin-top: 50px;
+    margin-left: 230px;
+    position: absolute;
+    width: 1100px;
+}
+
+.judul-data-keluar{
+    font-size: 30px;
+    font-weight: 640;
+    margin-bottom: 20px;
+}
+
+.tab-keluar td{
+    table-layout: fixed;
+    word-break: break-all;
+    
+}
+
+.tab-keluar th{
+    text-align: center;
+    font-size: 14px;
+}
+
+.tab-keluar tbody:hover{
+    background-color: rgb(247, 247, 247);
+}
+
+.tab-keluar tbody{
+    font-size: 13px;
+}
+
+.tab-no-keluar{
+    width: 35px;
+}
+
+.tab-surat-keluar{
+    width: 150px;
+}
+
+.tab-tanggal-keluar{
+    width: 140px;
+}
+
+.tab-nama-keluar{
+    width: 200px;
+    
+}
+
+.tab-merk-keluar{
+    width: 160px;
+}
+
+.tab-jumlah-keluar{
+    width: 50px;
+}
+
+.tab-satuan-keluar{
+    width: 110px;
+}
+
+.tab-kategori-keluar{
+    width: 150px;
+    
+}
+
+.tab-ket-keluar{
+    width: 200px;
+}
+
+.tab-aksi-keluar{
+    width:100px;
+}
+
+.icon-edit-keluar{
+    color: #39a3b1;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.icon-delete-keluar{
+    margin-left: 10px;
+    color: #b13939;
+    font-size: 20px;
+    cursor: pointer;
+}

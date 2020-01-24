@@ -1,0 +1,82 @@
+.table-data{
+    margin-top: 50px;
+    margin-left: 230px;
+    position: absolute;
+    width: 1100px;
+}
+
+.judul-data{
+    font-size: 30px;
+    font-weight: 640;
+    margin-bottom: 20px;
+}
+
+.tab-data td{
+    table-layout: fixed;
+    word-break: break-all;
+    
+}
+
+.tab-data th{
+    text-align: center;
+    font-size: 14px;
+}
+
+.tab-data tbody:hover{
+    background-color: rgb(247, 247, 247);
+}
+
+.tab-data tbody{
+    font-size: 13px;
+}
+
+.tab-no{
+    width: 35px;
+}
+
+.tab-tanggal{
+    width: 140px;
+}
+
+.tab-nama{
+    width: 200px;
+    
+}
+
+.tab-merk{
+    width: 200px;
+}
+
+.tab-jumlah{
+    width: 50px;
+}
+
+.tab-satuan{
+    width: 110px;
+}
+
+.tab-kategori{
+    width: 150px;
+    
+}
+
+.tab-ket{
+    width: 200px;
+}
+
+.tab-aksi{
+    width:100px;
+}
+
+.icon-edit{
+    color: #39a3b1;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.icon-delete{
+    margin-left: 10px;
+    color: #b13939;
+    font-size: 20px;
+    cursor: pointer;
+}
